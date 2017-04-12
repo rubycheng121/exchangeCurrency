@@ -1,0 +1,27 @@
+{
+  "name": "Exchanger-cucumber.js",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "none",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "cucumber",
+    "BDD"
+  ],
+  "author": "RubyCheng",
+  "license": "ISC",
+  "dependencies": {
+		"request": "^2.79.0",
+		"web3": "^0.18.2",
+		"ws": "^1.1.1"
+	},
+  "devDependencies": {
+    "cucumber": "^2.0.0-rc.9"
+  }
+}
