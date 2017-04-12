@@ -24,7 +24,7 @@ low level test code : Test/test/test.js
 
 
 
-### testrpc
+## testrpc
 
 1. 安裝
 
@@ -36,7 +36,7 @@ low level test code : Test/test/test.js
 
   ```testrpc -p 8545 -a 100 -l 88888888```
 
-### deploy contract (solcjs@0.4.8)
+## deploy contract (solcjs@0.4.8)
 
 1. ```cd Contract```
 2. ```mkdir build``` (one time)
