@@ -8,7 +8,7 @@ Solidity Code : Contract/Contract.sol
 
 deploey Code : Contract/build_script/All.js
 
-(注意：deploey前必須先產出 Contract之abi,bytecode ，也就是必deploeycontract 之步驟5 'npm run solc')
+(注意：deploey前必須先產出 Contract之abi,bytecode ，即deploeycontract 之步驟5 '```npm run solc```')
 
 ### cucumber
 
