@@ -16,26 +16,27 @@ const exchangerContract_bytecode = '0x' + fs.readFileSync(path.resolve(__dirname
 let exchangerContract = web3.eth.contract(exchangerContract_abi)
 
 
-module.exports = {/*
+module.exports = {
   getContract: function(){
     //do something
-    //console.log('fuck');
-    return exchangerContract
+    return true
   },
   getRequest: function(){
     //do something
-    //console.log('fuck');
+    return true
   },
-  verifyInChain: function(){
+  getVerifyResult: function(){
     //do something
-    //console.log('fuck');
+    return true
   },
   getDeductRewardPointsResult: function(){
     //do something
+    return true
   },
   getIncreaseRewardPointsResult: function(){
     //do something
-  },*/
+    return true
+  },
    test : function( data ){
     // print out the data
     // fs.writeFileSync(path.resolve(__dirname, '..', 'deployResult', 'test.js'), "test")

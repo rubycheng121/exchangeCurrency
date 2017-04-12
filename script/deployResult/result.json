@@ -1,10 +1,10 @@
 {
     "exchangerContract": {
-        "address": "0xc7939cb199286b3f204322033ade42912781198c"
+        "address": "0x75ab5dddc3843ee1c0ee24de48689c6601ce816d"
     },
     "bankContract": {
-        "address": "0x9f82a4ffa176414f27e864de196b39852e0e5650"
+        "address": "0x9dd1aed9a7dc606deaa653b163158ecdefb49162"
     },
-    "coinbase": "0x4564ad104d1479d27cbb566d22437223e4abcb1d",
+    "coinbase": "0xa352f1ce6e19008cfb76ddb23c15e6fc92bf84be",
     "provider": "http://localhost:8545"
 }
