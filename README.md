@@ -54,7 +54,7 @@ low level test code : Test/test/test.js
 4. ```npm install -g solc@0.4.8 && npm install``` (one time)
 5. ```npm run solc``` (if contract has changed)
 6. ```cd ../../Test```
-7. ```testrpc -p 8546 -l 88888888```
+7. ```testrpc -p 8545 -l 88888888```
 8. ```npm install && npm test```
 
 ## Cucumber.js
