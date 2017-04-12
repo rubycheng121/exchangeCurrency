@@ -39,4 +39,4 @@
 
 0. ```testrpc -l 88888888 -p 8545``` or connect to private chain
 1. npm instll
-2. node_model/Cucumber/bin/Cucumber.js
+2. node node_modules/cucumber/bin/cucumber.js 
